@@ -1,4 +1,4 @@
-### Hi there 👋
+### Apparently you can add a README.md to your profile page. Isn't that neat.
 
 <!--
 **CalvinSprouse/calvinsprouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
