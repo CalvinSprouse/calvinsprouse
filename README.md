@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinsprouse)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/CalvinSprouse/calvinsprouse/blob/main/startrail.png)
